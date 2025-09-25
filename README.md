@@ -1,6 +1,6 @@
 # 🌦️ Weather Dashboard  
 
-![Weather Dashboard Preview](c70cc640-e859-4e6a-9c6b-577db87a124e.png)  
+![Weather Dashboard Preview](https://github.com/LIONELcomet/Weather-Dashboard/blob/main/PREVIEW%20IMAGE.png)  
 
 ## 📌 Project Overview  
 The **Weather Dashboard** is an **interactive visualization** built using weather data from an external **Weather API**.  
